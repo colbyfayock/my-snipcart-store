@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tshirt",
+    "title": "Tshirt",
+    "description": "My cool tshirt",
+    "price": 20.00,
+    "image": "/images/spacejelly-tshirt.jpg"
+  },
+  {
+    "id": "stickers",
+    "title": "Stickers",
+    "description": "Super awesome stickers",
+    "price": 10.00,
+    "image": "/images/spacejelly-sticker.jpg"
+  },
+  {
+    "id": "combo",
+    "title": "Combo",
+    "description": "Get both the cool tshirt and some super awesome stickers!",
+    "price": 25.00,
+    "image": "/images/spacejelly-combo.jpg"
+  }
+]
